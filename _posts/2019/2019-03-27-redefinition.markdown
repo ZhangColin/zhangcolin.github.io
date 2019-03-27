@@ -4,7 +4,7 @@ title:      "开篇"
 subtitle:   "四十不惑，不是因为通透人生，而是没有选择。"
 date:       2019-03-27 14:39:00+0800
 author:     "文野"
-header-img: ""
+header-img: "img/2019/2019-03-27-redefinition.jpg"
 tags:
     - 生活
 ---
