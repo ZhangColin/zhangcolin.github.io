@@ -9,7 +9,7 @@ tags:
     - 生活
 ---
 
-> “It‘s what you do that defines you ”
+> “It's what you do that defines you ”
 
 ## 前情提要
 
