@@ -32,7 +32,7 @@ tags:
 
 下一个状态是通过将上述规则同时应用于当前状态下的每个细胞所形成的，其中细胞的出生和死亡是同时发生的。给你 m x n 网格面板 board 的当前状态，返回下一个状态。
 
-游戏体验地址：https://playgameoflife.com/
+游戏体验地址：[https://playgameoflife.com/](https://playgameoflife.com/)
 
 ## 验收测试
 
@@ -293,7 +293,7 @@ public void turn() {
 
 TDD的好习惯，每一个用例都足够小，每通过一个用例都做Git提交，回头看提交记录，也是非常有意思的。
 
-![commit](/img/2021/2021-09-12-game-of-life-commit.png)
+![Commit](/img/2021/2021-09-12-game-of-life-commit.png)
 
 ## 项目地址
 
